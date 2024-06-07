@@ -22,7 +22,7 @@ if (age>=18){
 // 4. Write a script that takes a user's grade as input and outputs whether they passed or failed (assuming the passing grade is 60 or above).
 
 let mark = 50
-if (age>=60){
+if (mark>=60){
     console.log('You have Passed')
 }
 else {
